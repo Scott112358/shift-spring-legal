@@ -1,6 +1,6 @@
 # Shift Spring Privacy Policy
 
-**Last updated:** 26 July 2026
+**Last updated:** 1 September 2026
 
 ## 1. Who We Are
 
@@ -20,7 +20,7 @@ This privacy policy explains how we collect, use, store, and protect your person
 
 ### 3.1 Data You Provide Directly
 
-- **Email address** (optional — only if you sign in via email or Google)
+- **Email address** (optional — only if you sign in via email)
 - **Display name** (optional)
 - **Profile photo** (optional — if you choose one from your device's photo library)
 - **Employer name** (optional)
@@ -29,23 +29,13 @@ This privacy policy explains how we collect, use, store, and protect your person
 - **Leave records** — leave bookings, leave type, and leave policy settings (annual allowance, accrual rules)
 - **Preferences** — timezone, locale, currency, theme, and notification settings
 
-### 3.2 Data from Google Sign-In
-
-If you choose to sign in with Google, we receive the following from your Google account:
-
-- Email address
-- Display name
-- Profile picture URL
-
-We do not access your Google contacts, calendar, or any other Google services beyond what is needed for sign-in.
-
-### 3.3 Data Generated Through Use
+### 3.2 Data Generated Through Use
 
 - **Activity flags** — whether you have viewed your pay forecast
 - **Streak and achievement data** — usage streaks for engagement features
 - **Subscription status** — whether your account is on the free or pro tier
 
-### 3.4 Diagnostic Data
+### 3.3 Diagnostic Data
 
 If the app crashes or hits an error, we receive a diagnostic report through Sentry (see Section 6). This contains:
 
@@ -67,7 +57,7 @@ We process your data for the following purposes, each with a legal basis under U
 | Pay rates, enhancement and overtime rules, adjustments | Provide pay forecasting | Contract performance — Article 6(1)(b) |
 | Leave bookings and leave policy | Provide leave tracking | Contract performance — Article 6(1)(b) |
 | Timezone, locale, currency | Display the service correctly for your region | Contract performance — Article 6(1)(b) |
-| Email address, display name, profile photo, Google profile data | Authenticate your account and personalise the app | Consent — Article 6(1)(a) |
+| Email address, display name, profile photo | Authenticate your account and personalise the app | Consent — Article 6(1)(a) |
 | Activity flags, streaks | Improve your experience within the app | Legitimate interest — Article 6(1)(f) |
 | Notification preferences | Deliver the shift reminders and summaries you request | Legitimate interest — Article 6(1)(f) |
 | Subscription and purchase status | Provide and verify Pro features | Contract performance — Article 6(1)(b) |
@@ -83,7 +73,7 @@ All your data is stored locally on your device using the app's built-in storage.
 
 ### Cloud Storage
 
-If you sign in with email or Google, your data is also synced to our cloud database, provided by InstantDB, so that it can be backed up, recovered, and used across your devices. Each user's data is isolated — only you can access your own records.
+If you sign in with email, your data is also synced to our cloud database, provided by InstantDB, so that it can be backed up, recovered, and used across your devices. Each user's data is isolated — only you can access your own records.
 
 If you do not sign in, your data stays on your device only. Nothing is sent to our cloud database until you create an account, at which point the data already on your device is uploaded and linked to it.
 
@@ -98,12 +88,6 @@ We share your data with the following third-party services, and no others:
 - **Purpose:** Cloud database, user authentication, and real-time data synchronisation
 - **Data shared:** Your profile information and a snapshot of your app data (shifts, pay, leave, preferences)
 - **Privacy policy:** https://www.instantdb.com/privacy
-
-### Google (via Google Sign-In)
-
-- **Purpose:** Optional sign-in method
-- **Data received from Google:** Email address, display name, profile picture URL
-- **Privacy policy:** https://policies.google.com/privacy
 
 ### Sentry (Functional Software, Inc.)
 
@@ -165,7 +149,7 @@ You can delete your account and all associated data directly within the app:
 
 Your local data is cleared from your device immediately, and you are signed out.
 
-Your cloud-stored data — including your profile, shift schedules, pay information, and leave records — is then permanently deleted within 7 days. Deletion requests are processed automatically every Sunday. This deletion is irreversible and covers all data held about you.
+Your cloud-stored data — including your profile, shift schedules, pay information, and leave records — is then permanently deleted **within 7 days**. Deletion requests are processed automatically every Sunday. This deletion is irreversible and covers all data held about you.
 
 If you need assistance, you can also request account deletion by emailing shiftspring.contact@taskarasystems.com.
 
